@@ -1,6 +1,6 @@
 # gameWilt
 
-<img src="https://i.postimg.cc/QdjDF1fG/1.png" alt="Imagen del proyecto" width="100" height="200">
+<img src="https://i.postimg.cc/DykJYpwr/ABAJO1.png" alt="Imagen del proyecto" width="300" height="300">
 
 ## Descripción
 Es un juego casi RPG donde eres el punto de vista de una mujer trans, y vas explorando un mundo con muchos asuntos en particular.  
@@ -13,7 +13,7 @@ Este juego se estará evolucionando, quiero subirlo en mejores plataformas y mot
 
 ## Personajes
 - Shayla  
-<img src="https://i.postimg.cc/QdjDF1fG/1.png" alt="Imagen del proyecto" width="100" height="200">
+<img src="https://i.postimg.cc/DykJYpwr/ABAJO1.png" alt="Imagen del proyecto" width="300" height="300">
 
 ## Lenguajes
 - HTML
